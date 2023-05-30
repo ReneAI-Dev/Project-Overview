@@ -4,7 +4,7 @@
 
 ## Design and Planning
 
-- [X] Define the specific functionalities and goals for Rene AI.
+- [X] Define the specific functionalities and goals for Rene AI. [go-to](#functionalities-and-goals)
 - [X] Research and select suitable machine learning models for self-learning.
 - [ ] Sketch the architecture for the decentralized node program.
 
