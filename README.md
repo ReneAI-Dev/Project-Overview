@@ -138,7 +138,7 @@ Please remember to update the checkbox `[ ]` to `[x]` upon completion of each ta
 ## Architecture
 
 The high-level architecture of Rene AI is as follows:
-
+```
 RenAI
 │
 ├── User Interface
@@ -164,7 +164,7 @@ RenAI
 └── Federated Learning System
     ├── Model Aggregator
     └── Model Distributor
-
+```
 ### User Interface
 
 The User Interface handles interactions with the user, receiving inputs and providing outputs.
