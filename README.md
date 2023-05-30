@@ -52,7 +52,7 @@
 
 ## Design and Planning
 
-- [ ] Define the specific functionalities and goals for Ren AI.
+- [X] Define the specific functionalities and goals for Ren AI.
 - [ ] Research and select suitable machine learning models for self-learning.
 - [ ] Sketch the architecture for the decentralized node program.
 
