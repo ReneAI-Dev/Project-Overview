@@ -5,7 +5,7 @@
 ## Design and Planning
 
 - [X] Define the specific functionalities and goals for Ren AI.
-- [ ] Research and select suitable machine learning models for self-learning.
+- [X] Research and select suitable machine learning models for self-learning.
 - [ ] Sketch the architecture for the decentralized node program.
 
 ## AI Training and Learning Model Development
@@ -118,7 +118,7 @@ Please remember to update the checkbox `[ ]` to `[x]` upon completion of each ta
     - Ensure Ren AI operates within legal and ethical guidelines, particularly regarding data usage and privacy.
     - Regularly review and update these guidelines as laws and societal norms evolve.
 
-#Ren AI, machine learning models and techniques:
+# Ren AI, machine learning models and techniques:
 
 1. **Transformers (like BERT, GPT-3, etc.)**: Given that Ren AI needs to understand and generate human-like text, a transformer-based model would be highly beneficial. They've shown impressive performance in natural language understanding and generation tasks, and models like GPT-3 can generate very human-like text.
 
