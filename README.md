@@ -139,25 +139,31 @@ Please remember to update the checkbox `[ ]` to `[x]` upon completion of each ta
 
 The high-level architecture of Rene AI is as follows:
 
-- **User Interface**
-  - Text Input/Output
-  - Voice Input/Output
-  - Image Input/Output
-- **Processing Unit**
-  - Data Router
-  - Output Integrator
-- **AI Models**
-  - Transformer (Text Processing)
-  - LSTM/RNN (Voice Processing)
-  - CNN (Image Processing)
-  - GAN (Voice Generation)
-- **Node Program**
-  - Local Data Storage
-  - Model Updater
-  - Node Communicator
-- **Federated Learning System**
-  - Model Aggregator
-  - Model Distributor
+RenAI
+│
+├── User Interface
+│   ├── Text Input/Output
+│   ├── Voice Input/Output
+│   └── Image Input/Output
+│
+├── Processing Unit
+│   ├── Data Router
+│   └── Output Integrator
+│
+├── AI Models
+│   ├── Transformer (Text Processing)
+│   ├── LSTM/RNN (Voice Processing)
+│   ├── CNN (Image Processing)
+│   └── GAN (Voice Generation)
+│
+├── Node Program
+│   ├── Local Data Storage
+│   ├── Model Updater
+│   └── Node Communicator
+│
+└── Federated Learning System
+    ├── Model Aggregator
+    └── Model Distributor
 
 ### User Interface
 
