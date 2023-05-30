@@ -72,6 +72,7 @@
 
 Please remember to update the checkbox `[ ]` to `[x]` upon completion of each task. This will help the team track the progress of the project.
 
+# Functionalities and Goals
 
 1. **Design and Planning**
     - Define the specific goals and functionality of Ren AI to outperform existing home device AIs.
@@ -118,7 +119,7 @@ Please remember to update the checkbox `[ ]` to `[x]` upon completion of each ta
     - Ensure Ren AI operates within legal and ethical guidelines, particularly regarding data usage and privacy.
     - Regularly review and update these guidelines as laws and societal norms evolve.
 
-# Ren AI, machine learning models and techniques:
+# Machine learning models and techniques:
 
 1. **Transformers (like BERT, GPT-3, etc.)**: Given that Ren AI needs to understand and generate human-like text, a transformer-based model would be highly beneficial. They've shown impressive performance in natural language understanding and generation tasks, and models like GPT-3 can generate very human-like text.
 
