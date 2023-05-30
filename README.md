@@ -139,7 +139,7 @@ Please remember to update the checkbox `[ ]` to `[x]` upon completion of each ta
 
 The high-level architecture of Rene AI is as follows:
 ```
-RenAI
+Rene AI
 │
 ├── User Interface
 │   ├── Text Input/Output
