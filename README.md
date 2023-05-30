@@ -5,7 +5,7 @@
 ## Design and Planning
 
 - [X] [Define the specific functionalities and goals for Rene AI.](#functionalities-and-goals)
-- [X] Research and select suitable machine learning models for self-learning.
+- [X] [Research and select suitable machine learning models for self-learning.](#machine-learning-models-and-techniques:)
 - [ ] Sketch the architecture for the decentralized node program.
 
 ## AI Training and Learning Model Development
